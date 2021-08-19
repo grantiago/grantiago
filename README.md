@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @grantiago
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- [my comments](https://github.com/notifications/subscriptions?reason=grantiago,comment)
+- 👀 I’m interested kayaking, surfing, some coding
+- 🌱 I’m currently learning python. I am just about able to surf backwards. 
+- 💞️ I’m looking to collaborate on  nothing. 
+- 📫 grant arroba lrio dot com
+- the link below will show me my comments. Or it will show you your comments. 
+- [comments](https://github.com/notifications/subscriptions?reason=author,comment)
 
 <!---
 grantiago/grantiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
